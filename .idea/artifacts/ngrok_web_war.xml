@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ngrok-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ngrok-web.war">
+      <element id="artifact" artifact-name="ngrok-web:war exploded" />
+    </root>
+  </artifact>
+</component>
